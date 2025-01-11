@@ -1,4 +1,4 @@
-const textLists=['Hello World','This id my App','How are you?',
+const textLists=['Hello World','This is my App','How are you?',
     'Today is sunny','I love JavaScript!','Good morning',
   'I am Japanese','Let it be','Samurai',
   'Typing Game','Information Technology',
